@@ -1,0 +1,1 @@
+This project is using bootstrap. I used cards, buttons, grids, a navbar, and margins.
